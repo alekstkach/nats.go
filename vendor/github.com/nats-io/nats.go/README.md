@@ -27,7 +27,7 @@ go get github.com/nats-io/nats.go/@v1.10.0
 go get github.com/nats-io/nats-server/v2
 
 # NATS Server v1 is installed otherwise
-# go get github.com/nats-io/nats-server
+go get github.com/nats-io/nats-server
 ```
 
 ## Basic Usage
